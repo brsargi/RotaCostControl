@@ -1,0 +1,47 @@
+.navbar .navbar-inner .container-fluid {
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+.navbar .navbar-inner .colored {
+	background: #e4f1fb;
+	border-bottom: 1px solid #74b2e2;
+}
+
+body {
+    padding-top: 100px;
+    padding-bottom: 40px;
+    color: darkSlateGray;
+}
+
+div {
+	display: block;
+}
+
+#content {
+	width: 84%;
+	top: 20%;
+}
+
+#login_container{
+	width: 30%;
+}
+
+.edit {
+	cursor: pointer;
+}
+
+.remove {
+	
+	cursor: pointer;
+}
+
+.totalRed{
+	
+	color: red;
+}
+
+.totalGreen{
+	
+	color:green;
+}
